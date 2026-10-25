@@ -1,0 +1,9 @@
+{
+  "eligible": 2209,
+  "selected": 100,
+  "all_hashes_verified": true,
+  "selected_ids_reproduced": true,
+  "method": "95% Wilson, binomial approximation, no finite-population correction",
+  "assumption": "Hash ordering approximately unrelated to sequence outcomes",
+  "unit": "probe set"
+}

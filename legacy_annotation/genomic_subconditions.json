@@ -1,0 +1,18 @@
+{
+  "ensembl": {
+    "n": 100,
+    "multi": 24,
+    "zero": 39,
+    "both": 11,
+    "multi_only": 13,
+    "zero_only": 28
+  },
+  "refseq": {
+    "n": 98,
+    "multi": 24,
+    "zero": 38,
+    "both": 11,
+    "multi_only": 13,
+    "zero_only": 27
+  }
+}

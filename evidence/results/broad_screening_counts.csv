@@ -1,0 +1,10 @@
+Condition,Ensembl (100),RefSeq represented (98)
+Multiple platform symbols,5,5
+Exact alternative transcript match,13,11
+Incomplete intended exact coverage,33,41
+Alternative allowing at most one substitution,18,15
+At least one oligo with multiple genomic sites,24,24
+At least one oligo with no contiguous genomic site,39,38
+Incomplete coverage and no other condition,3,7
+Any condition except incomplete coverage,58,55
+Broad union (A or B),61,62

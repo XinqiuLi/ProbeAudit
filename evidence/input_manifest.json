@@ -1,0 +1,51 @@
+[
+  {
+    "file": "inputs/historical_Ensembl_hits.csv",
+    "source": "原创稿_序列审计与工具_R4_20261004/02_内部核验/sequence_results/sequence_hits.csv",
+    "transformation": "none",
+    "source_sha256": "b86a6bc9ad9185ce38511ccad31fbd03268d600dde0f346d424323ef103837fa",
+    "sha256": "b86a6bc9ad9185ce38511ccad31fbd03268d600dde0f346d424323ef103837fa"
+  },
+  {
+    "file": "inputs/historical_RefSeq_hits.csv",
+    "source": "JBCB_追加研究_R5_20261005/refseq/audit/sequence_hits.csv",
+    "transformation": "none",
+    "source_sha256": "ecd6f276360b0ae1f4061c211462f51566ad3bc8713c49b83173fd73b7cc3931",
+    "sha256": "ecd6f276360b0ae1f4061c211462f51566ad3bc8713c49b83173fd73b7cc3931"
+  },
+  {
+    "file": "inputs/extension_Ensembl_hits.csv",
+    "source": "JBCB_扩展审计_R6_20261005/ensembl/sequence_hits.csv",
+    "transformation": "none",
+    "source_sha256": "4c6a54a9006ad477bc3d4b8a15d0787b70d793b3316e2213af3ce7a29328269f",
+    "sha256": "4c6a54a9006ad477bc3d4b8a15d0787b70d793b3316e2213af3ce7a29328269f"
+  },
+  {
+    "file": "inputs/extension_RefSeq_hits.csv",
+    "source": "JBCB_扩展审计_R6_20261005/refseq/sequence_hits.csv",
+    "transformation": "none",
+    "source_sha256": "5c6cd26c87cb5049224a4648c0f918a805878844729f6b1e098bbf49aa70875d",
+    "sha256": "5c6cd26c87cb5049224a4648c0f918a805878844729f6b1e098bbf49aa70875d"
+  },
+  {
+    "file": "inputs/historical_genome.csv",
+    "source": "原创稿_序列审计与工具_R4_20261004/02_内部核验/genome_results/genome_oligo_summary.csv",
+    "transformation": "none",
+    "source_sha256": "1c2054b087b3dc7c89e7cbece658b7a465790cb82a64586bdc2e24509c1f5f00",
+    "sha256": "1c2054b087b3dc7c89e7cbece658b7a465790cb82a64586bdc2e24509c1f5f00"
+  },
+  {
+    "file": "inputs/extension_genome.csv",
+    "source": "JBCB_扩展审计_R6_20261005/genome/genome_oligo_summary.csv",
+    "transformation": "none",
+    "source_sha256": "acf0ba0b05654af3f272c30494ca6d14a517d6d8fb9e3c3315e7a37f112f93fb",
+    "sha256": "acf0ba0b05654af3f272c30494ca6d14a517d6d8fb9e3c3315e7a37f112f93fb"
+  },
+  {
+    "file": "inputs/annotation.csv",
+    "source": "JBCB_1539_小修_R9_论证与应用版_20261011/01_修回文件/Supplementary_Annotation_Record.csv",
+    "transformation": "required columns only",
+    "source_sha256": "70149a25a73a1b1c5eb3bcf9a35517f10f031f1358a426078e3b869661359b3d",
+    "sha256": "49f4fd2f321f14dc7d926a9f7f152ee21491c93b6a1abf951a4b41b15169600d"
+  }
+]

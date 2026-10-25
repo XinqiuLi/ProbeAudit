@@ -1,0 +1,189 @@
+{
+  "eligible_probe_sets": 2209,
+  "selected": 100,
+  "selected_distinct_target_symbols": 96,
+  "oligos": 1100,
+  "lncrna_symbols": 6457,
+  "biotype_transcript_counts": {
+    "vault_RNA": 4,
+    "rRNA": 71,
+    "snRNA": 2094,
+    "miRNA": 1944,
+    "scaRNA": 54,
+    "snoRNA": 1063,
+    "Mt_tRNA": 22,
+    "Mt_rRNA": 2,
+    "sRNA": 6,
+    "ribozyme": 9,
+    "lncRNA": 196091,
+    "misc_RNA": 2418
+  },
+  "excluded": [
+    {
+      "probe_id": "1554097_a_at",
+      "target": "MIR31HG",
+      "platform_gene_symbols": "MIR31HG",
+      "ensembl_gene_ids": "ENSG00000171889.8",
+      "sampling_hash": "4954c8b2f8df8e854da0ca78f594b1b5263d09f59bcc2af9d6580a61d18c5c73",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "1564449_at",
+      "target": "USP2-AS1",
+      "platform_gene_symbols": "USP2-AS1",
+      "ensembl_gene_ids": "ENSG00000245248.11",
+      "sampling_hash": "21ee9a39aeae81b3fde647390f52ea74e1557a4e54c386c3df1ab55e06ae6e90",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "179_at",
+      "target": "DTX2P1-UPK3BP1-PMS2P11",
+      "platform_gene_symbols": "DTX2P1-UPK3BP1-PMS2P11",
+      "ensembl_gene_ids": "ENSG00000265479.8",
+      "sampling_hash": "eb0e0cfb9066c039357d8a5cb192bb3ef9c682c9db2e33bc4129b283f209c237",
+      "reason": "not exactly 11 oligos"
+    },
+    {
+      "probe_id": "216249_at",
+      "target": "PVT1",
+      "platform_gene_symbols": "PVT1",
+      "ensembl_gene_ids": "ENSG00000249859.15",
+      "sampling_hash": "52207daddeee517d9623bb721f011c64bd6d10c828fe48a6cd79d2c6dbc2595a",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "224566_at",
+      "target": "NEAT1",
+      "platform_gene_symbols": "MIR612///NEAT1",
+      "ensembl_gene_ids": "ENSG00000245532.13",
+      "sampling_hash": "09fe31d5a6429efd2dbfb65559e3da7ada0be566dd8263ee52d7538dc7d3c93c",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "224568_x_at",
+      "target": "MALAT1",
+      "platform_gene_symbols": "MALAT1",
+      "ensembl_gene_ids": "ENSG00000251562.13",
+      "sampling_hash": "25a9b2fdc87b332878a765d393f12c3364f1aaae011e371305a4826f828a11b0",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "224589_at",
+      "target": "XIST",
+      "platform_gene_symbols": "XIST",
+      "ensembl_gene_ids": "ENSG00000229807.15",
+      "sampling_hash": "3c69159f8422e38e6a9a2677b0c8ea477289c9c92270570df2eb255cf0d22eba",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "224841_x_at",
+      "target": "GAS5",
+      "platform_gene_symbols": "SNORD77///SNORD76///SNORD74///GAS5///SNORD44///SNORD47///SNORD80///SNORD79///SNORD81",
+      "ensembl_gene_ids": "ENSG00000234741.11",
+      "sampling_hash": "090e15d9a22f9e8c52cfc3f866fc4810a8880cd45396cd4e64d3ec8decabddf1",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "224997_x_at",
+      "target": "H19",
+      "platform_gene_symbols": "MIR675///H19",
+      "ensembl_gene_ids": "ENSG00000130600.23|ENSG00000288237.1",
+      "sampling_hash": "aa47dc260c89626d631c810cfef207441384f9f9112bae6f4cd083efa7ef6a32",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "225799_at",
+      "target": "MIR4435-2HG",
+      "platform_gene_symbols": "LOC101930489///MIR4435-2HG///LINC00152",
+      "ensembl_gene_ids": "ENSG00000172965.18",
+      "sampling_hash": "a0362c28f6a632ab0659fb0d0d3e3bd31942c55734705139e5b5f09f3346456b",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "227919_at",
+      "target": "UCA1",
+      "platform_gene_symbols": "UCA1",
+      "ensembl_gene_ids": "ENSG00000214049.9",
+      "sampling_hash": "6e685c3a76f4f055c267890efef9fa88c316509690d0a475afbb604f545ede7c",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "235077_at",
+      "target": "MEG3",
+      "platform_gene_symbols": "MEG3",
+      "ensembl_gene_ids": "ENSG00000214548.20",
+      "sampling_hash": "41a563b236f39e0d3726029b8c70f0822a1f389f1b207e2b01e879d3aacf6c2c",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "239153_at",
+      "target": "HOTAIR",
+      "platform_gene_symbols": "HOTAIR",
+      "ensembl_gene_ids": "ENSG00000228630.8",
+      "sampling_hash": "0a5ec60a8d58be382bc1ab65d0d59cdd3dfeb62959a20ea72f27e6a93e9c92a7",
+      "reason": "historical 14"
+    },
+    {
+      "probe_id": "37652_at",
+      "target": "CABIN1",
+      "platform_gene_symbols": "CABIN1",
+      "ensembl_gene_ids": "ENSG00000281670.1",
+      "sampling_hash": "a53ce37e1e9837e1b7670f48066ff9f52cd483354a820294ca710bc5d397aae6",
+      "reason": "not exactly 11 oligos"
+    },
+    {
+      "probe_id": "40446_at",
+      "target": "PHF1",
+      "platform_gene_symbols": "PHF1",
+      "ensembl_gene_ids": "ENSG00000239756.5",
+      "sampling_hash": "972210aacdc3bf61ec3b68ebdbb70593786f2fe93e80e62b55e89dc71bd5c56c",
+      "reason": "not exactly 11 oligos"
+    },
+    {
+      "probe_id": "60815_at",
+      "target": "POLR2J4",
+      "platform_gene_symbols": "POLR2J4",
+      "ensembl_gene_ids": "ENSG00000290758.3",
+      "sampling_hash": "02a16ddc3792d1066e4010e45a50ebee3a07a35a924998204cc328bbdecf7135",
+      "reason": "not exactly 11 oligos"
+    },
+    {
+      "probe_id": "64432_at",
+      "target": "MAPKAPK5-AS1",
+      "platform_gene_symbols": "MAPKAPK5-AS1",
+      "ensembl_gene_ids": "ENSG00000234608.10",
+      "sampling_hash": "53a7524003e59c08111245031d01f9d283825dd35a6dbafb5ff5acd956ba5e37",
+      "reason": "not exactly 11 oligos"
+    },
+    {
+      "probe_id": "65588_at",
+      "target": "SNHG17",
+      "platform_gene_symbols": "SNHG17",
+      "ensembl_gene_ids": "ENSG00000196756.16",
+      "sampling_hash": "6fbef2d6bf9ba0ce15a68bde36d6f7ac8073e762c4d526a4a3b4875d7cece691",
+      "reason": "not exactly 11 oligos"
+    }
+  ],
+  "protocol": {
+    "path": "protocol.txt",
+    "sha256": "503fab177913863de88a2900f1b66693ae2609b29e20b6914c3d5ff21f0e864b",
+    "bytes": 3631
+  },
+  "sources": [
+    {
+      "path": "GPL570.annot.gz",
+      "sha256": "d7cd44352127b1e34f3a720ebea86093ef255a38f1612a85a2962b71bde8f394",
+      "bytes": 8471521
+    },
+    {
+      "path": "HG-U133_Plus_2.probe_tab.gz",
+      "sha256": "2554bd43ceeccde930d82da60a8346f4f8944affcf73120e2e36d751e5049304",
+      "bytes": 10362366
+    },
+    {
+      "path": "Homo_sapiens.GRCh38.ncrna.fa.gz",
+      "sha256": "7f03bb303e939517b322f7887a74c1ee15bbb82a6affbb54f0be84e82f89cff1",
+      "bytes": 41013640
+    }
+  ]
+}

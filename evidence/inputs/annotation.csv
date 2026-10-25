@@ -1,0 +1,115 @@
+probe_id,historical_candidate_label,previous_annotation,category_ensembl,category_refseq,reference_assessable_ensembl,reference_assessable_refseq,intended_exact_ensembl,intended_exact_refseq,other_gene_exact_ensembl,other_gene_exact_refseq
+1554097_a_at,MIR31HG,MIR31HG,B: additional mapping review,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1564449_at,USP2-AS1,USP2-AS1,B: additional mapping review,A: identity review,1,1,11/11,0/11,0/11,0/11
+216249_at,PVT1,PVT1,A: identity review,A: identity review,1,1,0/11,0/11,0/11,0/11
+224566_at,NEAT1,MIR612///NEAT1,A: identity review,A: identity review,1,1,11/11,11/11,0/11,0/11
+224568_x_at,MALAT1,MALAT1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+224589_at,XIST,XIST,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+224841_x_at,GAS5,SNORD77///SNORD76///SNORD74///GAS5///SNORD44///SNORD47///SNORD80///SNORD79///SNORD81,A: identity review,A: identity review,1,1,11/11,11/11,6/11,0/11
+224997_x_at,H19,MIR675///H19,A: identity review,A: identity review,1,1,11/11,11/11,11/11,0/11
+225799_at,LINC00152,LOC101930489///MIR4435-2HG///LINC00152,A: identity review,A: identity review,1,1,11/11,11/11,11/11,11/11
+227567_at,LINC00674,LINC00674,A: identity review,B: additional mapping review,1,1,1/11,11/11,11/11,0/11
+227919_at,UCA1,UCA1,B: additional mapping review,A: identity review,1,1,11/11,11/11,0/11,8/11
+228397_at,TUG1,TUG1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+235077_at,MEG3,MEG3,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+239153_at,HOTAIR,HOTAIR,A: identity review,C: no flag under the retained rules,1,1,11/11,11/11,11/11,0/11
+238283_at,LINC00635,LINC00635,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1564485_at,LINC00887,LINC00887,C: no flag under the retained rules,A: identity review,1,1,11/11,0/11,0/11,0/11
+230495_at,LINC01102,LINC01102,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+226211_at,MEG3,MEG3,C: no flag under the retained rules,A: identity review,1,1,11/11,0/11,0/11,0/11
+1555786_s_at,LINC00520,LINC00520,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+236653_at,LINC00662,LINC00662,B: additional mapping review,A: identity review,1,1,11/11,0/11,0/11,0/11
+227655_at,SNHG18,SNHG18,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1553592_x_at,BCRP3,BCRP3,A: identity review,A: identity review,1,1,2/11,2/11,4/11,1/11
+1556316_s_at,MIF-AS1,MIF-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+229205_at,ZNF793-AS1,ZNF793-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+204486_at,KCNQ1OT1,LOC101927338///KCNQ1OT1,A: identity review,A: identity review,1,1,0/11,0/11,0/11,0/11
+1559033_at,LINC01018,LINC01018,A: identity review,A: identity review,1,1,9/11,9/11,0/11,0/11
+1570204_at,ZBED3-AS1,ZBED3-AS1,C: no flag under the retained rules,A: identity review,1,1,11/11,0/11,0/11,0/11
+237189_at,HOXB-AS1,HOXB-AS1,C: no flag under the retained rules,A: identity review,1,1,11/11,0/11,0/11,0/11
+207719_x_at,CEP170P1,CEP170P1///CEP170,A: identity review,A: identity review,1,1,0/11,0/11,11/11,11/11
+1556533_at,LINC00868,LINC00868,A: identity review,A: identity review,1,1,8/11,0/11,0/11,0/11
+231006_at,SPATA8,SPATA8,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+231808_at,OIP5-AS1,OIP5-AS1,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+235446_at,XIST,XIST,A: identity review,A: identity review,1,1,0/11,0/11,0/11,0/11
+215244_at,DGCR5,DGCR5,A: identity review,A: identity review,1,1,11/11,11/11,10/11,9/11
+224567_x_at,MALAT1,MALAT1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+228004_at,LINC00261,LINC00261,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1557014_a_at,FAM201A,FAM201A,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+1558601_at,TUSC7,TUSC7,A: identity review,C: no flag under the retained rules,1,1,11/11,11/11,11/11,0/11
+237670_at,MIR663AHG,MIR663AHG,A: identity review,A: identity review,1,1,9/11,9/11,0/11,0/11
+224058_s_at,HSD17B7P2,HSD17B7P2,A: identity review,A: identity review,1,1,0/11,0/11,7/11,0/11
+1553024_at,DAOA-AS1,DAOA-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1560659_at,LINC00342,LINC00342,A: identity review,B: additional mapping review,1,1,0/11,11/11,0/11,0/11
+1563524_a_at,ITPK1-AS1,ITPK1-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+216111_x_at,PMS2P3,PMS2P3,A: identity review,A: identity review,1,1,11/11,10/11,10/11,10/11
+1557821_at,LINC00639,LINC00639,A: identity review,A: identity review,1,1,10/11,10/11,0/11,0/11
+1561050_a_at,NAV2-IT1,NAV2-IT1,B: additional mapping review,A: identity review,1,0,11/11,0/11,0/11,0/11
+212746_s_at,CEP170P1,CEP170P1///CEP170,A: identity review,A: identity review,1,1,0/11,0/11,11/11,11/11
+225698_at,EPB41L4A-AS1,EPB41L4A-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1562173_a_at,LINC00555,LINC00555,C: no flag under the retained rules,A: identity review,1,0,11/11,0/11,0/11,0/11
+240561_at,RAP2C-AS1,RAP2C-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1557590_at,PARD6G-AS1,PARD6G-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+228085_at,MMP25-AS1,MMP25-AS1,B: additional mapping review,A: identity review,1,1,11/11,0/11,0/11,11/11
+227517_s_at,GAS5,SNORD77///SNORD76///SNORD74///GAS5///SNORD44///SNORD47///SNORD80///SNORD79///SNORD81,A: identity review,A: identity review,1,1,11/11,0/11,0/11,0/11
+1569023_a_at,LINC00458,LINC00458,A: identity review,A: identity review,1,1,10/11,10/11,0/11,0/11
+1560565_at,LINC01333,LINC01333,A: identity review,A: identity review,1,1,10/11,10/11,0/11,0/11
+1557341_x_at,PIK3CD-AS2,PIK3CD-AS2,A: identity review,A: identity review,1,1,6/11,6/11,0/11,0/11
+228235_at,MIR503HG,MIR424///MIR503HG,A: identity review,A: identity review,1,1,11/11,11/11,0/11,0/11
+1570015_at,CHIAP2,CHIAP2,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1561127_at,ADARB2-AS1,ADARB2-AS1,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+244446_at,SMAD1-AS2,SMAD1-AS2,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1561531_at,PLCH1-AS1,PLCH1-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+241405_at,TOB1-AS1,TOB1-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+232256_s_at,LINC00997,LINC00997,A: identity review,B: additional mapping review,1,1,5/11,11/11,0/11,0/11
+1558425_x_at,LINC00265,LINC00265,A: identity review,A: identity review,1,1,10/11,10/11,6/11,6/11
+1556183_at,ANKRD36BP2,ANKRD36BP2,A: identity review,A: identity review,1,1,11/11,0/11,7/11,7/11
+1558640_a_at,GUSBP1,GUSBP1,B: additional mapping review,A: identity review,1,1,11/11,0/11,0/11,0/11
+244553_at,HOTTIP,HOTTIP,A: identity review,A: identity review,1,1,7/11,7/11,0/11,0/11
+228049_x_at,SNHG19,SNHG19,A: identity review,A: identity review,1,1,10/11,10/11,0/11,0/11
+1560089_at,SLC25A25-AS1,SLC25A25-AS1,A: identity review,A: identity review,1,1,9/11,9/11,0/11,0/11
+1556364_at,ADAMTS9-AS2,ADAMTS9-AS2,C: no flag under the retained rules,A: identity review,1,1,11/11,0/11,0/11,0/11
+1560883_s_at,TLX1NB,TLX1NB,A: identity review,A: identity review,1,1,10/11,10/11,0/11,0/11
+233512_at,SH3RF3-AS1,SH3RF3-AS1,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+1569287_at,LINC00458,LINC00458,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1556588_at,ST20-AS1,ST20-AS1,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+1559682_at,TRIM16L,TRIM16L,A: identity review,A: identity review,1,1,7/11,0/11,0/11,0/11
+1556670_at,GTF3C2-AS1,GTF3C2-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+223779_at,AFAP1-AS1,AFAP1-AS1,A: identity review,A: identity review,1,1,10/11,10/11,0/11,0/11
+1557617_at,DCTN1-AS1,DCTN1-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+222048_at,CRYBB2P1,CRYBB2P1,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+219627_at,ZNF767P,ZNF767P,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+241369_at,ADAMTS9-AS1,ADAMTS9-AS1,A: identity review,A: identity review,1,1,4/11,4/11,0/11,0/11
+229566_at,WFDC21P,WFDC21P,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+231455_at,LINC00487,LINC00487,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1556528_at,LINC00692,LINC00692,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+1570155_at,LINC01111,LINC01111,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+240151_at,HOXB-AS3,HOXB-AS3,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+224870_at,DANCR,DANCR,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+220703_at,IDI2-AS1,IDI2-AS1,A: identity review,A: identity review,1,1,10/11,10/11,0/11,0/11
+1557276_at,LINC01016,LINC01016,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1556671_s_at,GTF3C2-AS1,GTF3C2-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+233135_at,LINC01007,LINC01007,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1561262_at,LINC01516,LINC01516,A: identity review,C: no flag under the retained rules,1,1,11/11,11/11,11/11,0/11
+212580_at,CAST,CAST,A: identity review,A: identity review,1,1,0/11,0/11,0/11,0/11
+222054_at,PPIEL,PPIEL,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+231491_at,LINC00113,LINC00113,B: additional mapping review,A: identity review,1,1,11/11,11/11,0/11,1/11
+243261_at,LINC00689,LINC00689,A: identity review,A: identity review,1,1,0/11,0/11,0/11,0/11
+230423_at,FOXD3-AS1,FOXD3-AS1,A: identity review,B: additional mapping review,1,1,11/11,11/11,9/11,0/11
+222090_at,NDUFB2-AS1,NDUFB2-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+239565_at,DLG5-AS1,DLG5-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1560320_a_at,C1RL-AS1,C1RL-AS1,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+1564911_at,SNHG4,SNHG4,A: identity review,A: identity review,1,1,9/11,9/11,0/11,0/11
+242889_x_at,FUT8-AS1,FUT8-AS1,A: identity review,A: identity review,1,1,3/11,8/11,0/11,0/11
+236141_at,HAND2-AS1,HAND2-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+207963_at,KIF25-AS1,KIF25-AS1,A: identity review,A: identity review,1,1,9/11,0/11,0/11,0/11
+224278_at,CYP4F30P,CYP4F30P,A: identity review,A: identity review,1,1,11/11,11/11,9/11,9/11
+1558881_at,LINC00924,LINC00924,A: identity review,A: identity review,1,1,9/11,9/11,0/11,0/11
+233928_at,ADAMTS9-AS1,ADAMTS9-AS1,A: identity review,A: identity review,1,1,0/11,0/11,0/11,0/11
+210444_at,NPY6R,NPY6R,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+1569582_at,AADACP1,AADACP1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+223777_at,DDX11L2,DDX11L2,A: identity review,A: identity review,1,1,10/11,10/11,10/11,10/11
+1561398_at,LINC01505,LINC01505,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+230121_at,SERTAD4-AS1,SERTAD4-AS1,B: additional mapping review,B: additional mapping review,1,1,11/11,11/11,0/11,0/11
+242893_at,LURAP1L-AS1,LURAP1L-AS1,C: no flag under the retained rules,C: no flag under the retained rules,1,1,11/11,11/11,0/11,0/11
+220211_at,FLJ13224,FLJ13224,A: identity review,C: no flag under the retained rules,1,1,9/11,11/11,0/11,0/11

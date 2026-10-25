@@ -1,0 +1,26 @@
+{
+  "ensembl": {
+    "denominator": 100,
+    "platform_multiple_symbols": 5,
+    "different_gene_exact": 13,
+    "incomplete_intended_exact": 33,
+    "different_gene_at_most_one_substitution": 18,
+    "not_all_genomic_sites_unique": 52,
+    "coverage_only_independent": 3,
+    "coverage_only_archived_priority_flags": 26,
+    "any_condition_excluding_incomplete": 58,
+    "any_review_flag": 61
+  },
+  "refseq": {
+    "denominator": 98,
+    "platform_multiple_symbols": 5,
+    "different_gene_exact": 11,
+    "incomplete_intended_exact": 41,
+    "different_gene_at_most_one_substitution": 15,
+    "not_all_genomic_sites_unique": 51,
+    "coverage_only_independent": 7,
+    "coverage_only_archived_priority_flags": 31,
+    "any_condition_excluding_incomplete": 55,
+    "any_review_flag": 62
+  }
+}

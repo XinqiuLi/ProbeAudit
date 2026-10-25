@@ -1,0 +1,42 @@
+[
+  {
+    "file": "Homo_sapiens.GRCh38.cdna.all.fa.gz",
+    "url": "https://ftp.ensembl.org/pub/release-116/fasta/homo_sapiens/cdna/Homo_sapiens.GRCh38.cdna.all.fa.gz",
+    "bytes": 183898799,
+    "sha256": "683eb19310c40bf1396e4718f45afa2ce86755717c0990f47a171f535d248ea1",
+    "gzip_integrity": "passed",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "file": "Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz",
+    "url": "https://ftp.ensembl.org/pub/release-116/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz",
+    "bytes": 881964081,
+    "sha256": "d8c3af0094a7bba6125763bad779ec18a81483c739c6ed122094bdf86c187b92",
+    "gzip_integrity": "passed",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "file": "Homo_sapiens.GRCh38.ncrna.fa.gz",
+    "url": "https://ftp.ensembl.org/pub/release-116/fasta/homo_sapiens/ncrna/Homo_sapiens.GRCh38.ncrna.fa.gz",
+    "bytes": 41013640,
+    "sha256": "7f03bb303e939517b322f7887a74c1ee15bbb82a6affbb54f0be84e82f89cff1",
+    "gzip_integrity": "passed",
+    "retrieved": "2026-10-04"
+  },
+  {
+    "file": "GCF_000001405.40_GRCh38.p14_feature_table.txt.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_feature_table.txt.gz",
+    "bytes": 9120360,
+    "sha256": "d67f109e28829748f7cba10d8b309d55313a9be4700218971101b6e631ff6f2a",
+    "md5": "0b043c494e42cf54aba7e07753340d8b",
+    "ncbi_md5_and_gzip_verified": true
+  },
+  {
+    "file": "GCF_000001405.40_GRCh38.p14_rna.fna.gz",
+    "url": "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_rna.fna.gz",
+    "bytes": 135516534,
+    "sha256": "e214c2e0a00a5e8726487b611fc5afb166ca776b11106f1211ee7d14c095d9e2",
+    "md5": "b4a2ce202c90c0f24f22850c6bc7d774",
+    "ncbi_md5_and_gzip_verified": true
+  }
+]

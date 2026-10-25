@@ -1,0 +1,17 @@
+{
+  "version": "1.1.0",
+  "mode": "alternative",
+  "reference": "both",
+  "weights": {
+    "alternative": 1.0,
+    "deficit": 1.0,
+    "ambiguity": 1.0
+  },
+  "group": "all",
+  "probe": "",
+  "min_alternative": 0,
+  "max_intended": 11,
+  "min_consensus": 0,
+  "total_sets": 114,
+  "shown_sets": 114
+}

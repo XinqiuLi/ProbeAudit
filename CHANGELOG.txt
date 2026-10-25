@@ -1,0 +1,10 @@
+1.2.0 — 19 October 2026
+Organizes the 1.0.0 annotation archive and 1.1.0 evidence explorer together.
+Adds executable frequency estimation and verification of hash-based selection.
+Separates instructions for retained-result reproduction from new-set auditing.
+The evidence aggregation algorithm and retained scientific CSV inputs are
+unchanged from 1.1.0. Version 1.2.0 identifies the repository release, while
+the included aggregation program continues to report engine version 1.1.0.
+The original protocol's submission instructions are omitted; scientific design
+and sequence settings are retained. Absolute local paths in the legacy
+selection manifest are reduced to source filenames, preserving source hashes.

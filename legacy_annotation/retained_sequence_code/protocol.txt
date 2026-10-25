@@ -1,0 +1,23 @@
+Retained extension design recorded 5 October 2026
+
+The original protocol was recorded before selection and generation of the
+additional sequence results. Findings from the historical cases were already
+known. The complete original protocol is preserved in the version 1.0.0
+archive, DOI 10.5281/zenodo.23273760. This release extracts the scientific
+sampling and matching design, omitting historical task-delivery instructions.
+
+Eligible GPL570 sets have exactly one distinct platform symbol with
+gene_biotype:lncRNA in retained Ensembl 116 noncoding FASTA headers, exactly
+eleven complete ACGT 25-mers and unique X/Y array coordinates. Other platform
+symbols remain in the annotation. The historical fourteen are excluded.
+Ascending SHA-256 of 'ProbeAudit-R6-20261005|' plus probe ID defines the
+ordering; ID breaks ties and the first 100 are retained. Expression, response,
+model performance, RefSeq matches and categories do not enter selection.
+
+The retained sequence engine evaluates original sequences and reverse
+complements against Ensembl 116 coding and noncoding references and RefSeq
+RS_2025_08 RNA, with exact matches and at most one substitution kept separate.
+The genomic search is exact, contiguous and both-stranded against the GRCh38
+primary assembly. Target absence is recorded separately from lack of matches
+to a represented target. The A/B/C reporting conditions are the same in both
+references. The original probe IDs and complete platform labels are retained.
